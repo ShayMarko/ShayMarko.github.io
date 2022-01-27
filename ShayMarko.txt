@@ -10,11 +10,12 @@
     Tell me your dream and i will make a code custom made just for you.
  </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
  
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
-
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="https://mail.google.com/mail/">Email</a>.
+<p> 
+    <a href="https://sm-myportfolio.herokuapp.com/">Human readable portfolio copy</a> |
+    <a href="https://github.com/ShayMarko/ShayMarko">GitHub profile</a> | <br>
+    <a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> | 
+    <a href="mailto:SSM.Programming@gmail.com">Email</a>  
+</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 
 "<span id="k">Your'e not done when it works, your'e done when it's right!</span>" robert C.Martin <!-- sjkfhskjf -->
 <br><span id="a">Shay@Marko</span>:<span id="b">~</span><span id="c">$</span> exit
