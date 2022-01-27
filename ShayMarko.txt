@@ -8,8 +8,10 @@
     I have a diverse set of skills, ranging from MySQL to Java, all the way to HTML & including Spring framework, JavaScript and React. 
     <br>My code is everything you need it to be.
     Tell me your dream and i will make a code custom made just for you. <br>   
-    <a href="https://sm-myportfolio.herokuapp.com/">Human readable portfolio copy</a> | <a href="https://github.com/ShayMarko/ShayMarko">GitHub profile</a> | <br>
-    <a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> | <a href="mailto:SSM.Programming@gmail.com">Email</a>  
+    <span>
+        <a href="https://sm-myportfolio.herokuapp.com/">Human readable portfolio copy</a> | <a href="https://github.com/ShayMarko/ShayMarko">GitHub profile</a> | <br>
+        <a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> | <a href="mailto:SSM.Programming@gmail.com">Email</a>  
+    </span>
  </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
  
  <br><br>
