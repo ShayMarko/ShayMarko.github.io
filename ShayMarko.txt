@@ -9,11 +9,11 @@
     <br>My code is everything you need it to be.
     Tell me your dream and i will make a code custom made just for you. <br>   
     <span>
-        <a href="https://sm-myportfolio.herokuapp.com/">Human readable portfolio copy</a> | <a href="https://github.com/ShayMarko/ShayMarko">GitHub profile</a> | <br>
+        <a href="https://sm-myportfolio.herokuapp.com/">Portfolio copy</a> | <a href="https://github.com/ShayMarko/ShayMarko">GitHub profile</a> | 
         <a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> | <a href="mailto:SSM.Programming@gmail.com">Email</a>  
     </span>
  </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
  
- <br><br>
+ <br>
 "<span id="k">Your'e not done when it works, your'e done when it's right!</span>" robert C.Martin <!-- sjkfhskjf -->
 <br><span id="a">Shay@Marko</span>:<span id="b">~</span><span id="c">$</span> exit
