@@ -12,6 +12,6 @@
     <a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> | <a href="mailto:SSM.Programming@gmail.com">Email</a>  
  </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
  
- <br>
+ <br><br>
 "<span id="k">Your'e not done when it works, your'e done when it's right!</span>" robert C.Martin <!-- sjkfhskjf -->
 <br><span id="a">Shay@Marko</span>:<span id="b">~</span><span id="c">$</span> exit
